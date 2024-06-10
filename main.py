@@ -5,11 +5,11 @@ import pandas as pd
 
 # https://learn.microsoft.com/es-es/sql/connect/python/pyodbc/step-3-proof-of-concept-connecting-to-sql-using-pyodbc?view=sql-server-ver16
 
-SERVER = 'swp-srv-01'
-DATABASE = 'Time-track'
+SERVER = 'Server_name'
+DATABASE = 'Database_name'
 # Database User
-USERNAME = 'Time-track'
-PASSWORD = 'TT_Pass-svc24'
+USERNAME = 'User_name'
+PASSWORD = 'User_pass'
 
 
 
