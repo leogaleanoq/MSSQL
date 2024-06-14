@@ -1,12 +1,4 @@
-import pyodbc as odbc
-import os
-import pandas as pd
-
-
 # https://learn.microsoft.com/es-es/sql/connect/python/pyodbc/step-3-proof-of-concept-connecting-to-sql-using-pyodbc?view=sql-server-ver16
-
-                
-
 import pyodbc as odbc
 import os
 import pandas as pd
